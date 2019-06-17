@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2019. Parrot Faurecia Automotive S.A.S. All rights reserved.
+  -->
+
+<resources>
+    <declare-styleable name="SmoothLine">
+        <attr name="onStartLeft" format="boolean"></attr>
+        <attr name="imgTop" format="reference"></attr>
+        <attr name="imgDown" format="reference"></attr>
+    </declare-styleable>
+</resources>
